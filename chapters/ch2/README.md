@@ -1,4 +1,4 @@
-# The 10-minute EC2 Web Server
+# Chapter 2. The 10-minute EC2 Web Server
 
 
 ## Instructions
