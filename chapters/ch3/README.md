@@ -5,7 +5,7 @@
 - Open a Terminal
 - `cd chapters/ch3/`
 - `terraform init`
-- `terraform apply auto-approve`
+- `terraform apply --auto-approve`
 - An SSH private key will be created in the current directory.
 - Follow output instructions and connect to the EC2 instance via SSH. **NOTE:** You will have to be in the correct directory (`/aws-mol/chapters/ch3/`)
 - Once you SSH to the instance, it may take a few moments for the LAMP stack to be WordPress to be installed. Give it 5 or so minutes.

@@ -5,7 +5,7 @@
 - Open a Terminal
 - `cd chapters/ch2/`
 - `terraform init`
-- `terraform apply auto-approve`
+- `terraform apply --auto-approve`
 - An SSH private key will be created in the current directory
 - Look at the outputs and copy/paste the string to SSH to the EC2 instance.
 - Also, go to the link in the outputs.
